@@ -1,0 +1,16 @@
+C:\Users\nisla\source\repos\Task\Task\bin\Debug\Task.exe.config
+C:\Users\nisla\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\nisla\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Views\MainWindow.g.cs
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\App.g.cs
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task_MarkupCompile.cache
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task_MarkupCompile.lref
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Views\MainWindow.baml
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.g.resources
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\nisla\source\repos\Task\Task\obj\Debug\Task.pdb
